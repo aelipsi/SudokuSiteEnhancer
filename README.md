@@ -2,7 +2,7 @@
 
 I've always liked solving Sudoku puzzles. I'm not great at them, but I can solve some hard level ones. When I try a very high level one (rated `insane`), I usually get to a certain point before I just cannot figure out how to proceed and give up. I posed one puzzle at work and a couple of stumped coworkers found a website on Google where you can enter a puzzle and be told the logic for how to proceed.
 
-Unfortunately the (Sudoku Helper)[https://sudoku.ironmonger.com/home/home.tpl] website has a dreadfully slow puzzle entry interface. 
+Unfortunately the [Sudoku Helper](https://sudoku.ironmonger.com/home/home.tpl) website has a dreadfully slow puzzle entry interface. 
 
 So one Friday night when I was doing Sudokus alone in my apartment, I decided to write something to improve the site slightly.
 
